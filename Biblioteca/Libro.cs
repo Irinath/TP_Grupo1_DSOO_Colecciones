@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    internal class Program
+    internal class Libro
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
