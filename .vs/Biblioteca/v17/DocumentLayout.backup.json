@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Valeria\\source\\repos\\Biblioteca\\",
+  "WorkspaceRootPath": "G:\\Mi unidad\\TECNICATURA\\1er a\u00F1o\\2 cuatri\\DSOO\\TP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|c:\\users\\valeria\\source\\repos\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|g:\\mi unidad\\tecnicatura\\1er a\u00F1o\\2 cuatri\\dsoo\\tp1\\biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|g:\\mi unidad\\tecnicatura\\1er a\u00F1o\\2 cuatri\\dsoo\\tp1\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +18,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\TECNICATURA\\1er a\u00F1o\\2 cuatri\\DSOO\\TP1\\Biblioteca\\Libro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Libro.cs",
+              "ToolTip": "G:\\Mi unidad\\TECNICATURA\\1er a\u00F1o\\2 cuatri\\DSOO\\TP1\\Biblioteca\\Libro.cs",
+              "RelativeToolTip": "Biblioteca\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:13:13.995Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Valeria\\source\\repos\\Biblioteca\\Biblioteca\\Program.cs",
+              "DocumentMoniker": "G:\\Mi unidad\\TECNICATURA\\1er a\u00F1o\\2 cuatri\\DSOO\\TP1\\Biblioteca\\Program.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
-              "ToolTip": "C:\\Users\\Valeria\\source\\repos\\Biblioteca\\Biblioteca\\Program.cs",
+              "ToolTip": "G:\\Mi unidad\\TECNICATURA\\1er a\u00F1o\\2 cuatri\\DSOO\\TP1\\Biblioteca\\Program.cs",
               "RelativeToolTip": "Biblioteca\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T20:41:11.582Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|"
             }
           ]
         }
