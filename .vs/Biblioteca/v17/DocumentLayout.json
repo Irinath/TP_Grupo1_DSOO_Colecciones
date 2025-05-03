@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|c:\\users\\elavi\\desktop\\tp_biblioteca\\tp_grupo1_dsoo_colecciones\\biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|C:\\Users\\elavi\\Desktop\\tp_biblioteca\\TP_Grupo1_DSOO_Colecciones\\biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|c:\\users\\elavi\\desktop\\tp_biblioteca\\tp_grupo1_dsoo_colecciones\\biblioteca\\lector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|C:\\Users\\elavi\\Desktop\\tp_biblioteca\\TP_Grupo1_DSOO_Colecciones\\biblioteca\\lector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92A5D52D-688C-4046-8853-BF3212CEDA77}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\lector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Biblioteca\\Test.cs",
               "ToolTip": "C:\\Users\\elavi\\Desktop\\tp_biblioteca\\TP_Grupo1_DSOO_Colecciones\\Biblioteca\\Test.cs",
               "RelativeToolTip": "Biblioteca\\Test.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAmwK8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T21:20:59.735Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Biblioteca\\Biblioteca.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T21:20:48.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T21:20:48.425Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Biblioteca\\Lector.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAmwDkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T21:19:47.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T21:19:47.059Z"
             },
             {
               "$type": "Document",

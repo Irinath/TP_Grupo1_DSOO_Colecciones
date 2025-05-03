@@ -1,0 +1,7 @@
+C:\Users\elavi\Desktop\tp_biblioteca\TP_Grupo1_DSOO_Colecciones\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\elavi\Desktop\tp_biblioteca\TP_Grupo1_DSOO_Colecciones\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\elavi\Desktop\tp_biblioteca\TP_Grupo1_DSOO_Colecciones\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\elavi\Desktop\tp_biblioteca\TP_Grupo1_DSOO_Colecciones\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\elavi\Desktop\tp_biblioteca\TP_Grupo1_DSOO_Colecciones\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\elavi\Desktop\tp_biblioteca\TP_Grupo1_DSOO_Colecciones\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\elavi\Desktop\tp_biblioteca\TP_Grupo1_DSOO_Colecciones\Biblioteca\obj\Debug\Biblioteca.pdb
