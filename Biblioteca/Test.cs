@@ -16,7 +16,34 @@ namespace Biblioteca
             Console.WriteLine(" *** BIBLIOTECA ***");
             Console.WriteLine("");
 
+            /* Llamamos al método cargarLibro()*/
+            cargarLibro(13);
+
+            /*Creamos un método para cargar libros*/
+            void cargarLibro(int cantidad)
+            {
+                Console.WriteLine("** CARGAMOS LOS LIBROS **");
+                Console.WriteLine("");
+
+                biblioteca.agregarLibro("Rayuela", "Julio Cortazar", "Sudamericana");
+                biblioteca.agregarLibro("Cien Años de Soledad", "Gabriel García Márquez", "Sudamericana");
+                biblioteca.agregarLibro("El Principito", "Antonie de Sant-Exupery", "Salamandra");
+                biblioteca.agregarLibro("Don Quijote de la Mancha", "Miguel de Cervantes", "Francisco de Robles");
+                biblioteca.agregarLibro("Matar a un Ruiseñor", "J. B. Lippincott", "HarperCollins");
+                biblioteca.agregarLibro("Moby Dick", "James Joyce", "Catedra");
+                biblioteca.agregarLibro("La Odisea", "Homero", "Penguin");
+                biblioteca.agregarLibro("El Codigo Da Vinci", "Dan Brown", "Doubleday");
+                biblioteca.agregarLibro("El Alquimista", "Paulo Coelho", "Planeta");
+                biblioteca.agregarLibro("El Señor de los Anillos", "J.R.R.", "Minotauro");
+                biblioteca.agregarLibro("Juego de Tronos", "George R.R. Martin", "Gigamesh");
+                biblioteca.agregarLibro("El Psicoanalista", "John Katzanbach", "Ediciones B");
+                biblioteca.agregarLibro("El Arte de la Guerra", "Sun Tzu", "Austral");
+            }
+
+
+
             /* Cargamos libros*/
+            /*
             Console.WriteLine("** CARGAMOS LOS LIBROS **");
             Console.WriteLine("");
 
@@ -33,6 +60,8 @@ namespace Biblioteca
             biblioteca.agregarLibro("Juego de Tronos", "George R.R. Martin", "Gigamesh");
             biblioteca.agregarLibro("El Psicoanalista", "John Katzanbach", "Ediciones B");
             biblioteca.agregarLibro("El Arte de la Guerra", "Sun Tzu", "Austral");
+
+*/
 
             Console.WriteLine("");
             /* Listamos los libros*/
@@ -64,13 +93,32 @@ namespace Biblioteca
 
             Console.WriteLine("");
 
+            /* Llamamos al método cargar Lectores */
+            cargarLectores(5);
+
+            /*Creamos un método para cargar Lectores*/
+
+            void cargarLectores(int cant)
+            {
+                Console.WriteLine("** CARGAMOS A LOS LECTORES **");
+                biblioteca.agregarLector("Flavia Berzuini", "111111");
+                biblioteca.agregarLector("Valeria Thomas", "222222");
+                biblioteca.agregarLector("Raquel Rodriguez", "333333");
+                biblioteca.agregarLector("Jonatan Uribio", "444444");
+                biblioteca.agregarLector("Mario Gonzalez", "555555");
+            }
+
+
+
             /* Cargamos Lectores*/
+            /*
             Console.WriteLine("** CARGAMOS A LOS LECTORES **");
             biblioteca.agregarLector("Flavia Berzuini", "111111");
             biblioteca.agregarLector("Valeria Thomas", "222222");
             biblioteca.agregarLector("Raquel Rodriguez", "333333");
             biblioteca.agregarLector("Jonatan Uribio", "444444");
             biblioteca.agregarLector("Mario Gonzalez", "555555");
+/*
 
             Console.WriteLine("");
 
